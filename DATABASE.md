@@ -383,7 +383,7 @@ INSERT INTO skill_aliases (skill_id, alias) VALUES
 
 ```sql
 -- Performance indexes
-CREATE INDEX idx_candidates_username ON candidates(github_username);
+
 CREATE INDEX idx_analysis_candidate ON analysis_results(candidate_id);
 CREATE INDEX idx_analysis_decision ON analysis_results(decision);
 CREATE INDEX idx_analysis_score ON analysis_results(score);
