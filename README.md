@@ -411,5 +411,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 |------|---------|
 | [`DATABASE.md`](./DATABASE.md) | Full table schemas, ER diagram, sample data |
 | [`SETUP.md`](./SETUP.md) | Step-by-step local setup guide |
-| [`BACKEND_SETUP.md`](./BACKEND_SETUP.md) | Backend-specific configuration and deployment |
 
