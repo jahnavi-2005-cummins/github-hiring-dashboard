@@ -410,5 +410,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 | File | Contents |
 |------|---------|
 | [`DATABASE.md`](./DATABASE.md) | Full table schemas, ER diagram, sample data |
-| [`SETUP.md`](./SETUP.md) | Step-by-step local setup guide |
 
